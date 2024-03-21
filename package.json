@@ -1,0 +1,16 @@
+{
+  "name": "piview",
+  "version": "1.0.0",
+  "description": "Screen opener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seelm",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^5.1.2",
+    "open": "^9.1.0"
+  },
+  "type": "module"
+}
